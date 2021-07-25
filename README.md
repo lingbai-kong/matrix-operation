@@ -1,5 +1,5 @@
 # matrix-operation
-同济大学CS《高级程序语言设计1》大作业: 矩阵操作TongJi University CS C++ homework: matrix operation
+同济大学CS《高级程序语言设计1》大作业: 矩阵操作TongJi University CS C++ assignment: matrix operation
 
 ## 概述
 
