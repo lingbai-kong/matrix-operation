@@ -29,6 +29,8 @@
 
 ## 典型功能举例
 
+抠图
+
 ![example](https://github.com/lingbai-kong/matrix-operation/blob/main/example.png)
 
 ## 备注
